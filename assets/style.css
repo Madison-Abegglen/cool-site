@@ -1,3 +1,20 @@
-.section {
-    background-color: aqua;
+h1 {
+    background-color: #2961bc;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    padding: 8px;
+    font-weight: inherit;
+}
+
+body {
+    background-color: white;
+    border-style: inherit;
+}
+
+footer {
+
 }
