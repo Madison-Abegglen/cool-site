@@ -6,15 +6,51 @@ h1 {
     border-style: solid;
     border-color: black;
     border-width: 2px;
-    padding: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     font-weight: inherit;
 }
 
 body {
     background-color: white;
     border-style: inherit;
+
 }
 
 footer {
+    background-color: #2961bc;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    padding: 30px;
+}
 
+h2 {
+    text-align: center;
+    margin-top: 15px;   
+}
+
+.main-content {
+    display: inline-block;
+    width: 60%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.another-article {
+    display: inline-block;
+    width: 200px;
+    padding-left: 100px;
+}
+
+.skinny-box {
+    height: 20px;
+    width: 100%;
+    background-color: #aec4e8;
+    margin-top: 25px;
+}
+p {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
 }
